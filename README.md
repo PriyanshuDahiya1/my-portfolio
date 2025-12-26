@@ -2,27 +2,27 @@
 
 <!-- GitHub badges -->
 
-[![Latest release](https://img.shields.io/github/v/release/ladunjexa/reactjs18-3d-portfolio?label=Latest%20release&style=social)](https://github.com/ladunjexa/reactjs18-3d-portfolio/releases/tag/v0.1.0)
-[![Stars](https://img.shields.io/github/stars/ladunjexa/reactjs18-3d-portfolio?style=social)](https://github.com/ladunjexa/reactjs18-3d-portfolio/stargazers)
-[![Fork](https://img.shields.io/github/forks/ladunjexa/reactjs18-3d-portfolio?style=social)](https://github.com/ladunjexa/reactjs18-3d-portfolio/forks)
-[![GitHub commits](https://img.shields.io/github/commit-activity/t/ladunjexa/reactjs18-3d-portfolio?style=social&logo=github)](https://github.com/ladunjexa/reactjs18-3d-portfolio/commits)
-[![Pull requests](https://img.shields.io/github/issues-pr/ladunjexa/reactjs18-3d-portfolio?style=social&logo=github)](https://github.com/ladunjexa/reactjs18-3d-portfolio/pulls)
+[![Latest release](https://img.shields.io/github/v/release/ladunjexa/myport?label=Latest%20release&style=social)](https://github.com/ladunjexa/myport/releases/tag/v0.1.0)
+[![Stars](https://img.shields.io/github/stars/ladunjexa/myport?style=social)](https://github.com/ladunjexa/myport/stargazers)
+[![Fork](https://img.shields.io/github/forks/ladunjexa/myport?style=social)](https://github.com/ladunjexa/myport/forks)
+[![GitHub commits](https://img.shields.io/github/commit-activity/t/ladunjexa/myport?style=social&logo=github)](https://github.com/ladunjexa/myport/commits)
+[![Pull requests](https://img.shields.io/github/issues-pr/ladunjexa/myport?style=social&logo=github)](https://github.com/ladunjexa/myport/pulls)
 
 ![demo](.github/README_ASSETS/3d-portfolio.png)
 
 [![ladunjexa](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
-[![License](https://img.shields.io/github/license/ladunjexa/reactjs18-3d-portfolio?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/reactjs18-3d-portfolio/blob/main/LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/ladunjexa/reactjs18-3d-portfolio?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
-[![Contributors](https://img.shields.io/github/contributors/ladunjexa/reactjs18-3d-portfolio?style=flat&color=orange&label=Contributors)](https://github.com/ladunjexa/reactjs18-3d-portfolio/graphs/contributors)
-![Release](https://img.shields.io/github/release/ladunjexa/reactjs18-3d-portfolio.svg)
+[![License](https://img.shields.io/github/license/ladunjexa/myport?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/myport/blob/main/LICENSE)
+[![Top Language](https://img.shields.io/github/languages/top/ladunjexa/myport?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
+[![Contributors](https://img.shields.io/github/contributors/ladunjexa/myport?style=flat&color=orange&label=Contributors)](https://github.com/ladunjexa/myport/graphs/contributors)
+![Release](https://img.shields.io/github/release/ladunjexa/myport.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=shields)
-![deployment](https://img.shields.io/github/deployments/ladunjexa/reactjs18-3d-portfolio/Production?logo=vercel&label=Website)
-[![Known Vulnerabilities](https://snyk.io/test/github/ladunjexa/reactjs18-3d-portfolio/badge.svg)](https://snyk.io/test/github/ladunjexa/reactjs18-3d-portfolio)
+![deployment](https://img.shields.io/github/deployments/ladunjexa/myport/Production?logo=vercel&label=Website)
+[![Known Vulnerabilities](https://snyk.io/test/github/ladunjexa/myport/badge.svg)](https://snyk.io/test/github/ladunjexa/myport)
 
 ## 🌐 Live Demo
 
 Explore the live demonstration of the project:
-[reactjs18-3d-portfolio](https://reactjs18-3-d-portfolio.vercel.app/)
+[myport](https://myport.vercel.app/)
 
 ## 📝 Description
 
@@ -32,7 +32,7 @@ React.js and Three.js. It is a fully responsive website that works well on all d
 <details><summary><b>Folder Structure</b></summary>
 
 ```bash
-reactjs18-3d-portfolio/
+myport/
 ├── src/
 ├   ├── App.tsx
 ├   ├── globals.css
@@ -190,7 +190,7 @@ variables in `.env` file.
 Download or clone this repo by using the link below:
 
 ```bash
-git clone https://github.com/ladunjexa/reactjs18-3d-portfolio.git
+git clone https://github.com/ladunjexa/myport.git
 ```
 
 **Step 2:**
@@ -261,19 +261,19 @@ npm run build
 The easiest way to deploy this Next.js app is to use the
 [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fladunjexa%2Freactjs18-3d-portfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fladunjexa%2Fmyport)
 
 #### Deploy on Netlify
 
 You can also deploy this Next.js app with [Netlify](https://www.netlify.com/).
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ladunjexa/reactjs18-3d-portfolio)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ladunjexa/myport)
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## 🔧 Contributing
 
-[![contributors](https://contrib.rocks/image?repo=ladunjexa/reactjs18-3d-portfolio)](https://github.com/ladunjexa/reactjs18-3d-portfolio/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=ladunjexa/myport)](https://github.com/ladunjexa/myport/graphs/contributors)
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and
 create. Any contributions you make are **greatly appreciated**.
@@ -290,11 +290,11 @@ To fix a bug or enhance an existing module, follow these steps:
 ### 📩 Bug / Feature Request
 
 If you find a bug (failure of a module to execute its intended function), kindly open an issue
-[here](https://github.com/ladunjexa/reactjs18-3d-portfolio/issues/new) by including the issue with a
+[here](https://github.com/ladunjexa/myport/issues/new) by including the issue with a
 title and clear description.
 
 If you'd like to request a new function, feel free to do so by opening an issue
-[here](https://github.com/ladunjexa/reactjs18-3d-portfolio/issues/new). Please include sample
+[here](https://github.com/ladunjexa/myport/issues/new). Please include sample
 queries and their corresponding results.
 
 ## 💎 Acknowledgements
@@ -327,4 +327,4 @@ possible:
 
 **Three.js 3D Portfolio** is open source software
 [licensed as MIT](https://opensource.org/license/mit/) and is free to use — See
-[LICENSE](https://github.com/ladunjexa/reactjs18-3d-portfolio/blob/main/LICENSE) for more details.
+[LICENSE](https://github.com/ladunjexa/myport/blob/main/LICENSE) for more details.
