@@ -154,7 +154,7 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: bikerheaven,
     sourceCodeLink: "https://github.com/PriyanshuDahiya1/Biker-Heaven",
   },
 ];
