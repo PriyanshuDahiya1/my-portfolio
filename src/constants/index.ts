@@ -3,7 +3,6 @@ import type {
   TService,
   TTechnology,
   TExperience,
-  TTestimonial,
   TProject,
 } from "../types";
 
@@ -25,9 +24,7 @@ import {
   git,
   figma,
   docker,
-  carrent,
-  jobit,
-  tripguide,
+  bikerheaven,
   threejs,
 } from "../assets";
 
