@@ -162,9 +162,9 @@ const testimonials: TTestimonial[] = [
 
 const projects: TProject[] = [
   {
-    name: "Car Rent",
+    name: "Biker Heaven",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform for bike rentals and community features, providing an easy way to discover, book, and manage bike rides and rentals.",
     tags: [
       {
         name: "react",
@@ -180,7 +180,7 @@ const projects: TProject[] = [
       },
     ],
     image: carrent,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/PriyanshuDahiya1/Biker-Heaven",
   },
   {
     name: "Job IT",
