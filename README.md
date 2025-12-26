@@ -8,7 +8,7 @@
 [![GitHub commits](https://img.shields.io/github/commit-activity/t/ladunjexa/myport?style=social&logo=github)](https://github.com/ladunjexa/myport/commits)
 [![Pull requests](https://img.shields.io/github/issues-pr/ladunjexa/myport?style=social&logo=github)](https://github.com/ladunjexa/myport/pulls)
 
-![demo](.github/README_ASSETS/3d-portfolio.png)
+![demo](.github/README_ASSETS/portfolio.png)
 
 [![ladunjexa](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
 [![License](https://img.shields.io/github/license/ladunjexa/myport?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/myport/blob/main/LICENSE)
@@ -145,7 +145,7 @@ myport/
   development experience for modern web projects.
 - [React.js](https://reactjs.org/): React is a free and open-source front-end JavaScript library for
   building user interfaces or UI components.
-- [Priyanshu Dahiya](https://threejs.org/): Three.js is a cross-browser JavaScript library and application
+- [Three.js](https://threejs.org/): Three.js is a cross-browser JavaScript library and application
   programming interface used to create and display animated 3D computer graphics in a web browser
   using WebGL.
 - [Framer Motion](https://www.framer.com/motion/): Framer Motion is a production-ready motion
@@ -303,7 +303,7 @@ I'd like to express my gratitude to the following people who helped me with this
 possible:
 
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Priyanshu Dahiya](https://threejs.org/)
+- [Three.js](https://threejs.org/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [React Vertical Timeline Component](https://www.npmjs.com/package/react-vertical-timeline-component)
 - [React Parallax Tilt](https://www.npmjs.com/package/react-parallax-tilt)
