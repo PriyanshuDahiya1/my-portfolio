@@ -145,7 +145,7 @@ myport/
   development experience for modern web projects.
 - [React.js](https://reactjs.org/): React is a free and open-source front-end JavaScript library for
   building user interfaces or UI components.
-- [Three.js](https://threejs.org/): Three.js is a cross-browser JavaScript library and application
+- [Priyanshu Dahiya](https://threejs.org/): Three.js is a cross-browser JavaScript library and application
   programming interface used to create and display animated 3D computer graphics in a web browser
   using WebGL.
 - [Framer Motion](https://www.framer.com/motion/): Framer Motion is a production-ready motion
@@ -303,7 +303,7 @@ I'd like to express my gratitude to the following people who helped me with this
 possible:
 
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Three.js](https://threejs.org/)
+- [Priyanshu Dahiya](https://threejs.org/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [React Vertical Timeline Component](https://www.npmjs.com/package/react-vertical-timeline-component)
 - [React Parallax Tilt](https://www.npmjs.com/package/react-parallax-tilt)

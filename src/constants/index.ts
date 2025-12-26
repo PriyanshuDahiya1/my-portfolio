@@ -28,7 +28,7 @@ import {
   carrent,
   jobit,
   tripguide,
-  threejs,
+  priyanshuDahiya,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -103,8 +103,8 @@ const technologies: TTechnology[] = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Priyanshu Dahiya",
+    icon: priyanshuDahiya,
   },
   {
     name: "git",
