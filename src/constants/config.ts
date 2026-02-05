@@ -42,7 +42,7 @@ export const config: TConfig = {
   html: {
     title: "Priyanshu Dahiya — 3D Portfolio",
     fullName: "Priyanshu Dahiya",
-    email: "johndoe@mail.com",
+    email: "priyanshu125d@gmail.com",
   },
   hero: {
     name: "Priyanshu Dahiya",
